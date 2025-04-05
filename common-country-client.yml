@@ -17,7 +17,7 @@ server:
   port: 8300
 
 country:
-  default: India
+  default: Bharat
 
 
 management:
